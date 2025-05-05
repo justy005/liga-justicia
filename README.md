@@ -3,4 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## El mejor
-Zoy el mejor
+Zoy el mejor desde GitHub
